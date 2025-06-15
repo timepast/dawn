@@ -1,0 +1,9 @@
+{
+  "name": "Dealer Locator",
+  "sections": {
+    "main": {
+      "type": "dealer-locator"
+    }
+  },
+  "order": ["main"]
+}
